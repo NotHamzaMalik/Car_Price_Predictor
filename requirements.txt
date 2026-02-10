@@ -1,5 +1,11 @@
 streamlit
-pandas
 numpy
+pandas
 scikit-learn
 joblib
+xgboost
+lightgbm
+catboost
+matplotlib
+seaborn 
+plotly
